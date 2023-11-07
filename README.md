@@ -5,6 +5,9 @@
 - ✨ <a href="https://www.zeeptech.dev/" target="_blank"> Zeeptech.dev </a> ✨
 - <3 Please checkout my bro <a href="https://www.github.com/Enhaasa">Enhasa</a> and his awesome work! <3
 
+
+<h2>My Tech Stack</h2>
+<img src="https://skillicons.dev/icons?i=html,css,csharp" />
 <!---
 Zeeptech/Zeeptech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
