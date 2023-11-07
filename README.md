@@ -7,7 +7,7 @@
 
 
 <h2>My Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=html,css,c#" />
+<img src="https://skillicons.dev/icons?i=html,css,git,vscode" />
 <!---
 Zeeptech/Zeeptech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
